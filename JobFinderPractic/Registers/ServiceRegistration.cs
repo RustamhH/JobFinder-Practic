@@ -1,5 +1,6 @@
 ﻿
 using Database.Contexts;
+using JobFinderPractic.DataAccess.Repositories.Abstracts;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System;
